@@ -1,16 +1,7 @@
-# Template for layout
+# Zeno
 
-### version: v2.0 (14.05.2022)
+Landing of education platform Zeno
 
-##### creator: Kirill Makhnev ( notequal21 )
+<!-- - Demo: https://digit-idea.github.io/Bartman/ -->
 
-##### telegram: [unequal21](https://t.me/unequal21)
-
-## Commands 
-
-`npm i`  
-`npm run dev`
-`npm run build`    
-`npm run zip`
-`npm run deploy`
-`npm run svgSprive`
+<!-- <img src="https://github.com/Digit-Idea/Bartman/assets/56224288/f5650fb6-7ec4-4857-8046-0e1c68da26cf" width="500"> -->
